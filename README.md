@@ -38,8 +38,10 @@ The Bar on the bottom right corner is the progress bar.
 Buttons (note always specify properties before clicking any buttons):
 -------------------------------------
 Auto-Random Cities: Will randomly populate cities based on above properties
+
 Place Cities: Will allow you to click to place up to the # of cities specified
               in the above properties
+              
 Clear: clear the screen and resets the property
 
 Ant Colony Optimization: runs the ACO algorithm (must only be clicked after the 
