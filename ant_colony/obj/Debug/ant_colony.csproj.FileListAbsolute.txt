@@ -1,0 +1,8 @@
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\obj\Debug\ant_colony.exe
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\obj\Debug\ant_colony.pdb
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\bin\Debug\ant_colony.exe
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\bin\Debug\ant_colony.pdb
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\obj\Debug\ant_colony.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\obj\Debug\ant_colony.ant_colony_s_path.resources
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\obj\Debug\ant_colony.Properties.Resources.resources
+C:\Users\Edwin\Desktop\software\ant_colony\ant_colony\obj\Debug\ant_colony.csproj.GenerateResource.Cache
