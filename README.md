@@ -19,9 +19,9 @@ KEY
 Alpha: the weight of the pheremone, should be left at 1
 Beta: the weight of the distance, should be left at 1
 Rho: pheromone decay rate:  0<ρ<1
-# of Cities: to be placed on the grid
-# of Ants: to be utilized by algorithm
-# of Iterations: with more iterations, the algorithm will be more accurate
+Number of Cities: to be placed on the grid
+Number of Ants: to be utilized by algorithm
+Number of Iterations: with more iterations, the algorithm will be more accurate
 
 ACO = ant colony optimization
 Brute Force = permutations to solve TSP
